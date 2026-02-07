@@ -1,0 +1,2 @@
+As a student who easily gets distracted, I want AI to lock the Facebook app after my present time limit, 
+so that I'm forced to focus on my studies.
